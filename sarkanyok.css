@@ -15,7 +15,10 @@ a:hover {
 }
 
 .jobbrakep {
-    float: right;
+    float: right;    
+    margin-bottom: 20px;
+    margin-left: 20px;
+    width: 300px
 }
 
 
