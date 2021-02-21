@@ -22,3 +22,8 @@ a:hover {
 body {
     background-image: url(hatterkep.jpg)
 }
+
+.forras {
+    font-size: 10px;
+    float: right  
+}
